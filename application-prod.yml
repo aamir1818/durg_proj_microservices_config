@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Config-from-github-prod
+    name: userservice-Config-from-github-prod
 
 
 eureka:
